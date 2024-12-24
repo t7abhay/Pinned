@@ -1,0 +1,7 @@
+notes.md
+.env
+
+node_modules/
+pretterrc
+package.json
+pnpm-lock.yaml
